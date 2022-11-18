@@ -1,4 +1,4 @@
-#read data
+
 import os
 import numpy as np
 import pandas as pd
@@ -83,4 +83,4 @@ if __name__ == '__main__':
     print('Random Forest Classifier')
     crossVal(rfclassifier)
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
